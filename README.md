@@ -33,7 +33,7 @@
 * **Framework:** Express.js
 * **Database:** MongoDB
 * **ODM:** Mongoose
-* **Authentication:** JSON Web Token (JWT)
+* **Authentication:** Express Sessions (Stateful Cookie-based Sessions)
 
 ---
 
